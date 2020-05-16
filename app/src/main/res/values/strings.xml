@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sharada Sangeetha Shaale</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string-array name="dayNames">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="attendance_array">
+        <item>P \u0020</item>
+        <item>A \u0020</item>
+        <item>C \u0020</item>
+    </string-array>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android" name="today_class_spinner_menu">
+        <item android:id="@+id/search"
+            android:icon="@drawable/ic_search"
+            android:title="@string/search_label"
+            android:showAsAction="ifRoom"/>
+        <item android:id="@+id/help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help_label" />
+    </menu>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

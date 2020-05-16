@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sharada Sangeetha Shaale.iml" filepath="$PROJECT_DIR$/Sharada Sangeetha Shaale.iml" group="Sharada Sangeetha Shaale" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Sharada Sangeetha Shaale/app" />
+    </modules>
+  </component>
+</project>
